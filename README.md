@@ -17,15 +17,15 @@ This project aims to aid in the process of creating README files for future proj
 
 ## Installation
 
-- Navigate to the website of my Github profile: https://github.com/mikorod622/Weather-Application- Click the "<> Code" icon- Click "Download ZIP
+Navigate to the repository, click the <> icon and download the zip file
 
 ## Usage
 
-after starting the program, answer the questions to create the README file.
+after starting the program answer the questions to crate the README file
 
 ## Credits
 
-https://nodejs.org/en/
+
 
 ## License
 This project is licensed under the MIT license.
@@ -43,7 +43,6 @@ none
 If you have any questions about the repo, open an issue or contact [mikorod622](https://github.com/mikorod622) directly at mikorod622@gmail.com.
 
 ---
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
@@ -51,7 +50,6 @@ If you have any questions about the repo, open an issue or contact [mikorod622](
 
 ## Features
 
-If your project has a lot of features, list them here.
 
 ## How to Contribute
 

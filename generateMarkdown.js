@@ -50,14 +50,6 @@ ${data.credits}
 
 ${renderLicenseSection(data.license)}
 
-## Contributing
-
-${data.contributing}
-
-## Tests
-
-${data.tests}
-
 ## Questions
 
 If you have any questions about the repo, open an issue or contact [${data.username}](https://github.com/${data.username}) directly at ${data.email}.

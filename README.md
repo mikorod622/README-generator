@@ -25,18 +25,11 @@ after starting the program answer the questions to crate the README file
 
 ## Credits
 
-
+https://nodejs.org/en/
 
 ## License
 This project is licensed under the MIT license.
 
-## Contributing
-
-none
-
-## Tests
-
-none
 
 ## Questions
 
